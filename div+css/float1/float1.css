@@ -1,0 +1,17 @@
+.div1{
+	width:150px;
+	height:100px;
+	border:1px solid blue;
+	background-color:pink;
+	margin-top:5px;
+
+}
+
+#special{
+float:right;
+}
+.div2{
+width:400px;
+height:400px;
+border:1px solid red;
+}

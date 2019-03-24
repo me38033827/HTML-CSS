@@ -1,0 +1,92 @@
+body{
+margin:0 auto;
+/*border:1px solid red;*/
+width:950px;
+height:800px;
+font-size:12px;
+}
+.top{
+width:950px;
+/*background:silver;*/
+height:24px;
+}
+.login{
+width:350px;
+height:22px;
+background:pink;
+float:left;
+}
+.setindex{
+width:85px;
+height:20px;
+background:green;
+float:left;
+margin-left:100px;
+}
+.myhref{
+float:right;
+margin-right:5px;
+margin-top:3px;}
+/*我的logo*/
+.logo{
+width:138px;
+height:56px;
+background:silver;
+float:left;
+margin-top:3px;
+}
+.logo img{
+width:138px;
+height:56px;}
+/*导航*/
+.navi{
+width:800px;
+height:56px;
+background:green;
+float:left;
+margin-top:3px;
+margin-left:10px;
+}
+/*总体广告div*/
+.adall{
+width:950px;
+height:211px;
+/*background:silver;*/
+border:1px solid silver;
+margin-top:3px;
+float:left;
+}
+/*招生广告*/
+.adstu{
+width:126px;
+height:195px;
+background:green;
+float:left;
+margin:5px 0 0 5px;
+}
+.adsport{
+width:451px;
+height:195px;
+background:green;
+float:left;
+margin:5px 0 0 15px;
+}
+/*房地产广告*/
+.adfdc{
+width:151px;
+height:195px;
+background:green;
+float:left;
+margin:5px 0 0 15px;
+}
+/*图片广告*/
+.adimg{
+width:180px;
+height:211px;
+background:pink;
+float:right;
+text-align:center;
+border-left:1px solid silver;
+}
+.adimg img{
+margin-top:3px;}

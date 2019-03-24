@@ -1,0 +1,25 @@
+<html>
+<head>
+<link rel="stylesheet"type="text/css"href="box2.css"/>
+</head>
+<body>
+<!--div在布局起到一个控制整个内容显示的位置-->
+<div class="div1">
+<!--ul在布局中的作用是可以控制显示内容的多少-->
+<ul class="faceul">
+<li>
+<img src="Koala.jpg"/>
+</li>
+<li>
+<img src="Koala.jpg"/>
+</li>
+<li>
+<img src="Koala.jpg"/>
+</li>
+<li>
+<img src="Koala.jpg"/>
+</li>
+</ul>
+</div>
+</body>
+</html>

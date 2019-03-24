@@ -1,0 +1,20 @@
+.div1{
+width:500px;
+height:300px;
+border:1px solid red;
+
+}
+.faceul{
+
+border:1px solid blue;
+width:300px;
+height:200px;
+}
+.faceul img{
+width:60px;
+margin-top:10px;
+margin-left:20px;
+}
+.faceul li{
+list-style-type:none;
+}

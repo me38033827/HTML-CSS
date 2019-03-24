@@ -1,0 +1,34 @@
+.s1{
+background-color:pink;
+font-weight:bold;
+font-size:16px;
+color:black;
+}
+#s1{
+background-color:silver;
+font-size:40px;
+color:black;}
+body{
+color:orange;}
+*{
+/*margin-top:0px;
+margin-left:0px;*/
+margin:0px;
+padding:0px;
+}
+
+#s1 span{
+color:red;
+font-style:italic;}
+#s1 span span{
+color:green;
+}
+#id1{
+color:red;
+font-style:italic;
+}
+.s2{
+font-style:italic;
+text-decoration:underline;
+
+}

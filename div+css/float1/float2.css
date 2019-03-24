@@ -1,0 +1,32 @@
+.div1{
+	width:150px;
+	height:100px;
+	border:1px solid blue;
+	background-color:pink;
+	margin-top:5px;
+float:left;
+}
+.div2{
+	width:150px;
+	height:100px;
+	border:1px solid blue;
+	background-color:pink;
+	margin-top:5px;
+float:left;
+}.div3{
+	width:150px;
+	height:100px;
+	border:1px solid blue;
+	background-color:pink;
+	margin-top:5px;
+float:left;
+}
+
+#special{
+float:right;
+}
+.div4{
+width:700px;
+height:400px;
+border:1px solid red;
+}

@@ -1,0 +1,20 @@
+/*.s1用术语 类选择器*/
+.s1{
+   color: blue;
+   font-size: 30px;
+   font-style:italic;
+   text-decoration:underline;
+}
+.s2{
+   color: yellow;
+   font-size: 12px;
+}
+.s3{
+   color: blue;
+   font-style:italic;
+}.s4{
+   color: green;
+   font-weight: bold;
+}.s5{
+   color:#9F4140;
+}

@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>总结</title>
+<!--在国内我们的编码一般是 gbk 或者 gb2312 俗称国标码
+变成专家们，为了让网页具有更好的兼容性，设计一种码utf-8
+该元素可以明确的告诉浏览器，应当使用tuf-8码来显示该页面
+ansi是美国国家标准协会制定的一套码  比如 中国 ansi->gbk
+日本 ansi ->rbr
+*规定：我们的网页本身的编码应当和content-type指令的编码一致
+-->
+<meta http-equiv="content-type"content="text/html;charset=utf-8"/>
+</head>
+<body text="red" link="black"background="jellyfish.jpg">
+hello,中<font color="blue">国</font>人!<br/><hr size="6px" width="100px"align="left"noshade/>
+<a href="#">连接到搜狐</a><br/>
+<b><i><s>hello,中国人</s></i></b><br/>
+<font style="font-size:40px"face="华文彩云">中国</font><br/>
+<div style="width:400px;height:200;border=1px solid red;color:black;position:absolute;left:200px">
+<table border="1px">
+sdfsfes
+</table>
+</div><br/>
+username:<input type="text"style="width:50px"name="username"/>
+<br/>
+<input type="checkbox"name="fruit"/>苹果1
+<input type="checkbox"name="fruit"checked/>苹果2
+<input type="checkbox"name="fruit"/>苹果3
+<input type="radio"name="sex"checked/>男
+<input type="radio"name="sex"/>女
+<select name="address">
+<option value="beijing">北京</option>
+<option value="tianjin"selected>天津</option>
+</select><br/>
+请发言：
+<textarea wrap=off cols="40" rows="20">
+请输入....</textarea>
+用户<input type="text"name="username"value="请输入"/>
+</body>
+</html>
